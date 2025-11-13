@@ -1,0 +1,6 @@
+name = (input("Enter student name: "))
+age = (input("Enter student age: "))
+usn = (input("Enter student usn: "))
+print(name)
+print(age)
+print(usn)
